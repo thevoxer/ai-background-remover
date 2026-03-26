@@ -1,0 +1,5 @@
+{
+  "name": "AI Background Remover",
+  "description": "Upload an image and use AI to remove its background instantly.",
+  "requestFramePermissions": []
+}
